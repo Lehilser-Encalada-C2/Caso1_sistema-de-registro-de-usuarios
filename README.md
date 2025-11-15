@@ -51,13 +51,22 @@ Tabla de prueba:
 |______________|______________|_____________________|____________________|_______________________________|__
 
 Tipos de mantenimientos propuesto:
-Caso 1:  Revisión de permisos, conexión y lógica de inserción de datos, además de depurar con herramientas específicas para detectar 
-el punto exacto donde falla el guardado  (Adaptación Ambiental).
-
-Caso 2:  Revisar el bloque de código, permisos y opción de recuperación de cuento, así como aspectos de seguridad  (Reparaciones de Fallas). 
-
-Caso 3:  La aplicación puede tener un problema de conectividad o de ingreso con algunos dispositivos (Adaptiva). 
-Si la app se actualiza desde un servidor se tiene que reiniciar la app para que todo funcione correctamente.
+Mantenimiento Perfectivo. 
+· Rediseño de la interfaz de usuario para mejorar experiencia 
+· Optimización del flujo de registro eliminando pasos innecesarios 
+· Implementación de carga progresiva para mejor percepción de rendimiento 
+Mantenimiento Adaptativo. 
+· Integración con protocolo OAuth 2.0 para autenticación social 
+· Adaptación para cumplir con GDPR y LGPD 
+· Soporte para autenticación biométrica en dispositivos móviles 
+Mantenimiento Correctivo. 
+· Implementación de rate limiting para prevenir fuerza bruta 
+· Corrección de vulnerabilidades de seguridad identificadas 
+· Reparación de bugs en el proceso de verificación de email 
+Mantenimiento Preventivo. 
+· Migración a arquitectura de microservicios 
+· Implementación de logging estructurado 
+· Creación de suite de pruebas automatizadas
 
 Reflexión sobre el control de versiones:
 El control de versiones es una técnica como una práctica eficiente ya sea con un equipo de trabajo o solitario, esto permite resguardar el original y crear copias donde podemos trabajar 
